@@ -9,6 +9,12 @@ Skills: Java / Selenium / Selenide / Playwright / Cucumber
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/y_m_ukr)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/marynina/)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/marynina-ua)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marynina//)  
+
+
+
 <!--
 **marynina-ua/marynina-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
