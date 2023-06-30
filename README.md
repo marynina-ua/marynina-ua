@@ -1,5 +1,5 @@
- :wave: #### Welcome! My name is Yevheniia.
-### *I’m currently looking for a job as Automation QA Engineer (junior/trainee).*
+#### :wave: Welcome! My name is Yevheniia.
+###  :arrow_right: *I’m currently looking for a job as Automation QA Engineer (junior/trainee).*
 
 
 
