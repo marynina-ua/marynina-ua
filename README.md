@@ -1,5 +1,8 @@
 ### Hi there 👋
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/y_m_ukr)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/marynina/)
 <!--
 **marynina-ua/marynina-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
