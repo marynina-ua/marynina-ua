@@ -1,5 +1,5 @@
 ### Welcome!
-#### My name is Yevheniia. I’m currently looking for a job as Automation QA Engineer (junior/trainee).
+#### My name is Yevheniia. *I’m currently looking for a job as Automation QA Engineer (junior/trainee).*
 
 I am skilled in writing automated tests using **Java**. I possess hands-on experience using various testing **tools and frameworks**. I have an experience in **web testing, API testing, writing check-lists, test-cases, bug-reports, test-plans.**
 
