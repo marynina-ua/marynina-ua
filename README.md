@@ -18,6 +18,7 @@ Java / Selenium / Selenide / Playwright / Cucumber / RestAssured / TestNG / JUni
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/y_m_ukr)
 
 
+- 🌱 I’m currently learning Mobile Testing
 
 <!--
 **marynina-ua/marynina-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
