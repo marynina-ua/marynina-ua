@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Yevheniia.
-#### I’m currently looking for a job as Automation QA Engineer (junior/trainee).
+### Welcome!
+#### My name is Yevheniia. I’m currently looking for a job as Automation QA Engineer (junior/trainee).
+
 I am skilled in writing automated tests using **Java**. I possess hands-on experience using various testing **tools and frameworks**. I have an experience in **web testing, API testing, writing check-lists, test-cases, bug-reports, test-plans.**
 
 Skills: Java / Selenium / Selenide / Playwright / Cucumber
-
 
 ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/y_m_ukr)
