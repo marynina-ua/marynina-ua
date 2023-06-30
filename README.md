@@ -4,7 +4,7 @@
 
 
 I am skilled in writing automated tests using **Java**. I possess hands-on experience using various testing **tools and frameworks**. 
-I have an experience in **web testing, API testing, writing check-lists, test-cases, bug-reports, test-plans.**
+I have an experience in **Web testing, API testing, writing check-lists, test-cases, bug-reports, test-plans.**
 
 #### :white_circle: Skills: 
 Java / Selenium / Selenide / Playwright / Cucumber / RestAssured / TestNG / JUnit Jupiter / Maven / Gradle / Allure Reports / Jenkins / Git / GitHub / Postman / Jira / TestRail / MySQL / PostgreSQL / Docker / 
@@ -31,4 +31,4 @@ Java / Selenium / Selenide / Playwright / Cucumber / RestAssured / TestNG / JUni
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/y_m_ukr)
 
 
-- 🌱 I’m currently learning Mobile Testing
+:small_blue_diamond: I’m currently learning Mobile Testing
