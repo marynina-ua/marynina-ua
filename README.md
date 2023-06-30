@@ -1,5 +1,5 @@
-## Welcome!
-### My name is Yevheniia. *I’m currently looking for a job as Automation QA Engineer (junior/trainee).*
+## Welcome! ### My name is Yevheniia.
+### *I’m currently looking for a job as Automation QA Engineer (junior/trainee).*
 
 
 
