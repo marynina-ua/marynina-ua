@@ -6,7 +6,7 @@
 I am skilled in writing automated tests using **Java**. I possess hands-on experience using various testing **tools and frameworks**. 
 I have an experience in **web testing, API testing, writing check-lists, test-cases, bug-reports, test-plans.**
 
-### :white_circle: Skills: 
+#### :white_circle: Skills: 
 Java / Selenium / Selenide / Playwright / Cucumber / RestAssured / TestNG / JUnit Jupiter / Maven / Gradle / Allure Reports / Jenkins / Git / GitHub / Postman / Jira / TestRail / MySQL / PostgreSQL / Docker / 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,7 +24,7 @@ Java / Selenium / Selenide / Playwright / Cucumber / RestAssured / TestNG / JUni
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
  
-### :white_circle: Follow me:
+#### :white_circle: Follow me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marynina-ua)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marynina)
