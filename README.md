@@ -9,6 +9,8 @@ I have an experience in **web testing, API testing, writing check-lists, test-ca
 ### Skills: 
 Java / Selenium / Selenide / Playwright / Cucumber / RestAssured / TestNG / JUnit Jupiter / Maven / Gradle / Allure Reports / Jenkins / Git / GitHub / Postman / Jira / TestRail / MySQL / PostgreSQL / Docker / 
 
+<i class="fa-brands fa-java"></i>
+
 ### Follow me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marynina-ua)
